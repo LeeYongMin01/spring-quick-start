@@ -15,7 +15,7 @@ public class TVUser {
     tv.volumeUp();
     tv.volumeDown();
     tv.powerOff();
-    
+     
     // 3. Spring 컨테이너를 종료
     factory.close();
   }
