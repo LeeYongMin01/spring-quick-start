@@ -11,4 +11,4 @@
     
     <bean id="sony" class="spring.study.SonySpeaker"></bean>
     <bean id="apple" class="spring.study.AppleSpeaker"></bean>
-</beans> 
+</beans>  
