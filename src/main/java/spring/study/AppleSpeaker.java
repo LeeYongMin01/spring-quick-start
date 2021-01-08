@@ -15,3 +15,4 @@ public class AppleSpeaker implements Speaker {
     System.out.println("AppleSpeaker ---소리 내린다.");
   }
 }
+ 
