@@ -1,5 +1,6 @@
 package spring.study;
 
+
 public class SonySpeaker implements Speaker {
 
   public SonySpeaker() {

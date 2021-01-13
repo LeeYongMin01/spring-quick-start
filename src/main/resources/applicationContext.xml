@@ -11,6 +11,7 @@
         
         
   <context:component-scan base-package="spring.study"></context:component-scan>
-         
-  <bean class="spring.study.LgTV"></bean>
+  <bean class="spring.study.SonySpeaker"></bean>         
+  
+  
 </beans>  
