@@ -15,3 +15,4 @@ public class SonySpeaker implements Speaker {
     System.out.println("Sonyspeaker ---소리 내린다.");
   }
 }
+ 
