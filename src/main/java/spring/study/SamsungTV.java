@@ -18,7 +18,7 @@ public class SamsungTV implements TV {
     System.out.println("===> setPrice() 호출");
     this.price = price;
   }
-  
+   
   @Override
   public void powerOn() {
     System.out.println("SamsungTV --- 전원 켠다. (가격 : " + price + ")");
